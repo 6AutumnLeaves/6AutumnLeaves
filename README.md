@@ -1,7 +1,7 @@
 <h1>👋 Hey there!</h1>
 My name is Justus Cole. I'm a front-end developer focused on becoming the best developer I can be. 
 
-Right now, my focus is finishing The Odin Project and getting my Bachelor's of Computer Science. 
+<br>Right now, my focus is finishing The Odin Project and getting my Bachelor's of Computer Science. 
  
 
 <!---
