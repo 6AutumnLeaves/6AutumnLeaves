@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @6AutumnLeaves
-I’m interested in frontend development, music, acting, writing, and just creating in general! I am absolutely in love with learning and improvoing upon myself.
+👋 Hi, I’m @6AutumnLeaves
 
-Right now, I'm pursuing a Bachelor's in CS and learning Web Dev through The Odin Project!
+I'm a self-taught developer aspiring to make a career in Web Development!
+
+Right now, my focus is finishing The Odin Project to sharpen my skills and to become job ready. 
  
 
 <!---
