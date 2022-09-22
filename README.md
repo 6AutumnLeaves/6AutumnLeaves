@@ -1,8 +1,7 @@
-👋 Hi, I’m @6AutumnLeaves
+<h1>👋 Hey there!</h1>
+My name is Justus Cole. I'm a front-end developer focused on becoming the best developer I can be. 
 
-I'm a self-taught developer aspiring to make a career in Web Development!
-
-Right now, my focus is finishing The Odin Project to sharpen my skills and to become job ready. 
+Right now, my focus is finishing The Odin Project and getting my Bachelor's of Computer Science. 
  
 
 <!---
