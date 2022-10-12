@@ -1,5 +1,5 @@
 <h1>👋 Hey there!</h1>
-My name is Justus Cole. I'm a front-end developer focused on becoming the best developer I can be. 
+My name is Justus Bartman. I'm a front-end developer focused on becoming the best developer I can be. 
 
 <br>Right now, my focus is finishing The Odin Project and getting my Bachelor's of Computer Science through WGU. 
  
